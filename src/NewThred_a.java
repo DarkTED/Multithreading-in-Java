@@ -1,6 +1,7 @@
 /**
  * Created by User on 12.06.2016.
  */
+//Создать несколько потоков исполнения
 class NewThread_a implements Runnable {
     String name;//Имя потока исполнения
     private Thread t;
